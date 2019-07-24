@@ -1,5 +1,5 @@
 {
-  "name": "flea",
+  "name": "flea-http",
   "version": "1.0.0",
   "description": "easy pure javascript xhr rest module with header injector  ",
   "main": "flea.js",

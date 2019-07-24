@@ -4,7 +4,7 @@ easy pure javascript xhr rest module with header injector  es5 Compatibility
 ## Installation
 
 ```bash
-npm install flea
+npm install flea-http
 ```
 
 ## or Man Installation
