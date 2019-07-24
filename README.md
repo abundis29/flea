@@ -8,8 +8,11 @@ npm install flea
 ```
 
 ## or Man Installation
-download and add to your sorce file
+download and
 
+```html
+ <script src="../flea.js"></script>
+```
 
 
 ## Usage
