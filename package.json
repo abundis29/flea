@@ -1,0 +1,30 @@
+{
+  "name": "flea",
+  "version": "1.0.0",
+  "description": "easy pure javascript xhr rest module with header injector  ",
+  "main": "flea.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abundis29/flea.git"
+  },
+  "keywords": [
+    "XHR",
+    "Interceptors",
+    "Pure",
+    "Javascript",
+    "Rest",
+    "Alamo"
+  ],
+  "author": "heysoyivan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abundis29/flea/issues"
+  },
+  "homepage": "https://github.com/abundis29/flea#readme"
+}
