@@ -11,7 +11,10 @@ npm install flea-http
 download and
 
 ```html
- <script src="../flea.js"></script>
+ <script src="../flea.js"></script> or
+
+import flea from 'flea';
+
 ```
 
 
